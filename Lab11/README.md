@@ -1,6 +1,6 @@
-# Nama : Safira Novianti
-# NIM : 311910324
-# Kelas : TI.19.A.2
+# Nama : Hendra Parsaulian
+# NIM : 312210689
+# Kelas : TI.22.A3
 # Praktikum 11 - PHP Framework
 
 Beberapa ekstensi PHP perlu diaktifkan untuk kebutuhan pengembangan Codeigniter 4. Berikut beberapa ekstensi yang perlu diaktifkan:
