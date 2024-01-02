@@ -100,5 +100,3 @@ Ketika di akses masih eror
 ![2021-07-05 (1)](https://user-images.githubusercontent.com/81462436/124498309-53053980-dde6-11eb-963e-0d6e915922b9.png)
 ## 2. Tampilan Pencarian
 ![2021-07-05 (9)](https://user-images.githubusercontent.com/81462436/124500210-8eedce00-dde9-11eb-861e-734f68f154c9.png)
-## 3. Tampilan Ketika sudah di upload gambar
-![2021-07-05 (5)](https://user-images.githubusercontent.com/81462436/124498331-5ac4de00-dde6-11eb-8e65-8f82cb548596.png)
